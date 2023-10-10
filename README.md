@@ -2,7 +2,7 @@
 - 👀 I’m interested in Anime
 - 🌱 I’m currently learning As a Student
 - 💞️ I’m looking to collaborate on Projects
-- 📫 How to reach me @berrotlist on instagram
+- 📫 Reach me @berrotlist on instagram
 
 <!---
 BERROT007/BERROT007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
